@@ -1,3 +1,4 @@
 ---Resolusi---
 1. Membuat sebuah program sederhana
 2. Membuat sebuah script untuk automisasi tugas
+3. Membuat server sendiri
